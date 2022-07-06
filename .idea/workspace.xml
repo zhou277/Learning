@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c75414a-3f86-425c-b963-57d908d9e258" name="变更" comment="删除了实验用的test">
-      <change afterPath="$PROJECT_DIR$/刷题/Leetcode/初级算法/数组/买卖股票的最佳时机 II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/刷题/Leetcode/初级算法/数组/删除排序数组中的重复项.py" afterDir="false" />
+    <list default="true" id="7c75414a-3f86-425c-b963-57d908d9e258" name="变更" comment="买卖股票的最佳时机">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.protractor.protractor_package" value="" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="Push.Settings">
     <force-push-targets>
@@ -143,7 +141,8 @@
       <workItem from="1657109772235" duration="511000" />
       <workItem from="1657112409577" duration="43000" />
       <workItem from="1657112689558" duration="457000" />
-      <workItem from="1657113157034" duration="59000" />
+      <workItem from="1657113157034" duration="274000" />
+      <workItem from="1657113490750" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="第一次从家中提交代码&#10;两数之和：从列表中找到和为target的数的位置">
       <created>1657109860238</created>
@@ -159,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657110881841</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="买卖股票的最佳时机">
+      <created>1657113422910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657113422910</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,11 +187,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次从家中提交代码&#10;两数之和：从列表中找到和为target的数的位置" />
     <MESSAGE value="删除了实验用的test" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除了实验用的test" />
+    <MESSAGE value="买卖股票的最佳时机" />
+    <option name="LAST_COMMIT_MESSAGE" value="买卖股票的最佳时机" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/1__py$_II.coverage" NAME="买卖股票的最佳时机 II Coverage Results" MODIFIED="1657112195846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/刷题/Leetcode/初级算法" />
+    <SUITE FILE_PATH="coverage/1__py$_II.coverage" NAME="买卖股票的最佳时机 II 覆盖结果" MODIFIED="1657113240177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/刷题/Leetcode/初级算法/数组" />
     <SUITE FILE_PATH="coverage/1__py$.coverage" NAME="删除排序数组中的重复项 Coverage Results" MODIFIED="1657111964168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
-    <SUITE FILE_PATH="coverage/1__py$1_.coverage" NAME="1.两数之和 Coverage Results" MODIFIED="1657110693222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/刷题" />
+    <SUITE FILE_PATH="coverage/1__py$1_.coverage" NAME="1.两数之和 覆盖结果" MODIFIED="1657113230303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/刷题" />
   </component>
 </project>

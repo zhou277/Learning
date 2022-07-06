@@ -1,0 +1,2 @@
+enumerate(sequence, [start=0]),会返回（下标，列表中的值）
+
