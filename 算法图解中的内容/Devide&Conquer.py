@@ -23,6 +23,7 @@ def Cmax(list):
 
 
 def qsort(list):
+    """快速排序"""
     if len(list) < 2:
         return list
     else:
