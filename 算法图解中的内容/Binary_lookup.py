@@ -13,6 +13,7 @@ def binary_search(list, item):
     return None
 
 
+# TODO：想用分治策略实现二分查找的，但是m的值会发生变化，因此实现失败了
 def bin_search_DC(list, item):
     low = 0
     high = len(list) - 1
