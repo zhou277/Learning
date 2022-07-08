@@ -1,6 +1,12 @@
 enumerate(sequence, [start=0]),会返回（下标，列表中的值）
+for k,num in enumerate(nums):
+    hashmap[nums]= k
 
 狄克斯特拉算法的过程：
     1.找出cost最低的节点
     2.更新前往该节点的各个邻居的cost
     3.重复1、2
+
+search_queue = deque() // "使用deque创建一个队列"
+search_queue += graph[name] //在右侧添加元素
+xx = search_queue.popleft() //把左边的元素赋值出来
